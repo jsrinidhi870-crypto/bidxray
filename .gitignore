@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+package-lock.json
+app_old.py
+*.pyc

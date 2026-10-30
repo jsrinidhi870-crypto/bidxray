@@ -1,0 +1,10 @@
+streamlit
+plotly
+pymupdf
+pytesseract
+opencv-python
+numpy
+pillow
+google-genai
+python-dotenv
+gtts
